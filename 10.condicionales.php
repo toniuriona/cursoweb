@@ -27,7 +27,7 @@ xor - Evalua que se cumpla una y solo una condicion
 $edad = 19;
 ?>
 
-<?php if($edad >= 18){ ?>
+<?php if($edad >= 28){ ?>
 	<!DOCTYPE html>
 	<html lang="en">
 	<head>
